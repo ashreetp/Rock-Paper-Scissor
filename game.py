@@ -1,5 +1,4 @@
 import random as r
-import Tkinter 
 
 def find():
     x=r.randrange(1,3)
